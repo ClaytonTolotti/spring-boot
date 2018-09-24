@@ -1,12 +1,10 @@
-package com.rest.webservices.restfulwebservices.post;
+package com.rest.webservices.restfulwebservices.user;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
-
-import com.rest.webservices.restfulwebservices.user.User;
 
 @Entity
 public class Post {

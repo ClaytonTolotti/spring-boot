@@ -1,0 +1,13 @@
+insert into user values(100,sysdate(), 'Clayton Tolotti');
+insert into user values(200,sysdate(), 'Franciele Tolotti');
+insert into user values(300,sysdate(), 'Roberto Tolotti');
+insert into user values(400,sysdate(), 'Teresinha Tolotti');
+insert into user values(500,sysdate(), 'Daniela Borges Tolotti');
+insert into user values(600,sysdate(), 'Juarez Borges');
+insert into user values(700,sysdate(), 'Daniel Borges');
+insert into user values(800,sysdate(), 'Eleinir Borges');
+insert into post values(100,'Postando primeira mensagem', 100);
+insert into post values(200,'Postando segunda mensagem', 100);
+insert into post values(300,'Postando primeira mensagem', 200);
+insert into post values(400,'Postando segunda mensagem', 200);
+insert into post values(500,'Postando terceira mensagem', 200);
